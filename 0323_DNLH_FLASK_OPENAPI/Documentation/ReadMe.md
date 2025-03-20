@@ -15,7 +15,7 @@
 ![Seat Belt | 100x100](../Documentation/Images/SeatBelt.PNG)
 
 
-//Script
+
 Got it! *Manozgna* will focus *only on the UI, and **Srivalli* will handle the *Flask integration, API calls, and CORS handling. Below are the updated **demo scripts* accordingly.  
 
 ---
