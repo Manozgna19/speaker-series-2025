@@ -22,7 +22,7 @@ Got it! *Manozgna* will focus *only on the UI, and **Srivalli* will handle the *
 
 # *🚀 Session 3: Bringing AI to Life – React, Tailwind, and UI Creation*  
 🎙 *Speaker:* Manozgna  
-🕘 *9:40 AM - 10:00 AM*  
+🕘 *10:45 AM - 11:00 AM*  
 
 ## *🎯 Goal of the Session:*  
 By the end of this session, attendees will:  
