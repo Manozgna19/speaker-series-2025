@@ -30,7 +30,7 @@
  ### *1️⃣ Introduction (2 min)*
  - "Welcome, everyone! Now that we've built the backend, it’s time to focus on the *frontend experience*."
  - "I’ll show you how to create a *beautiful, responsive UI* using *React and Tailwind CSS*."
- - "At the end of this session, we’ll have a chat interface ready, and in the next session, Sowmya will integrate it with Flask."
+ - "At the end of this session, we’ll have a chat interface ready, and in the next session, Srivalli will integrate it with Flask."
  
  ---
  
